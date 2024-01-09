@@ -2,7 +2,7 @@
 # Aloha! Shao Wei's here 🧑‍💻(●'◡'●) 
 
 ## ☃️ Me, Myself & I :)
-  As a year 2 computer science student at Nanyang Technological University, my passion lies in web development. I find joy in designing and creating websites that are both aesthetically pleasing and functional. From experimenting with different coding languages to learning about user experience and interface design, I am constantly striving to improve my skills and knowledge in this field.
+  As a year 3 computer science student at Nanyang Technological University, my passion lies in web development. I find joy in designing and creating websites that are both aesthetically pleasing and functional. From experimenting with different coding languages to learning about user experience and interface design, I am constantly striving to improve my skills and knowledge in this field.
   
   Web development allows me to bring my ideas to life and create something that can be accessed and used by people all over the world. I enjoy the challenge of problem-solving and troubleshooting, and I am always eager to explore new technologies and trends in the industry.
   
