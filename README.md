@@ -8,7 +8,7 @@
   
   As I continue my studies and pursue my passion in web development, I look forward to honing my skills and contributing to the growing field of computer science.
 
-(ChatGPT, 2023)
+(ChatGPT, 2024)
 
 
 <!-- ## 🗽 Github Stats
